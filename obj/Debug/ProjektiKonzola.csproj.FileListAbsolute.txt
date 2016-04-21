@@ -1,0 +1,6 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\ProjektiKonzola\ProjektiKonzola\bin\Debug\ProjektiKonzola.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\ProjektiKonzola\ProjektiKonzola\bin\Debug\ProjektiKonzola.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\ProjektiKonzola\ProjektiKonzola\bin\Debug\ProjektiKonzola.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\ProjektiKonzola\ProjektiKonzola\obj\Debug\ProjektiKonzola.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\ProjektiKonzola\ProjektiKonzola\obj\Debug\ProjektiKonzola.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\ProjektiKonzola\ProjektiKonzola\obj\Debug\ProjektiKonzola.pdb

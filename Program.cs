@@ -25,6 +25,7 @@ namespace ProjektiKonzola
         }
         static void Start()
         {
+            string log="";
             while (true)
             {
                 Thread.Sleep(10);
@@ -33,11 +34,19 @@ namespace ProjektiKonzola
                     int keyState = GetAsyncKeyState(i);
                     if (keyState == 1 || keyState == -32767)
                     {
-                        Console.WriteLine((Keys)i);                       
+                        log +=(Keys)i;                       
                         break;
                     }
                 }
+                if (log.Length == 100)
+                {
+                    Console.WriteLine("{0,10 }",log);
+                    log = "";
+                }
             }
+
+
+
         }
     }
 }

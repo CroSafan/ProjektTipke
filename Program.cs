@@ -50,3 +50,5 @@ namespace ProjektiKonzola
         }
     }
 }
+Dodajem nešto novo
+Mijenjam orginal

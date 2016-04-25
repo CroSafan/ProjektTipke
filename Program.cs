@@ -18,7 +18,7 @@ namespace ProjektiKonzola
         static void Main(string[] args)
         {
            
-           
+           //pokretanje void funkcije...komentar for the sake of pull
                 Start();
             
             

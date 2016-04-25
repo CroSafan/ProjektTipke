@@ -25,6 +25,7 @@ namespace ProjektiKonzola
         }
         static void Start()
         {
+            int brojac = 1;
             string log="";
             while (true)
             {
@@ -41,8 +42,11 @@ namespace ProjektiKonzola
                 if (log.Length == 100)
                 {
                     Console.WriteLine("{0,10 }",log);
+                    Console.WriteLine("{0}. praćenje tipkovnice",brojac);
                     log = "";
+                    brojac++;
                 }
+                
             }
 
 
